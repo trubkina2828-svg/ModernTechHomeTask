@@ -47,11 +47,5 @@
 - [ ] Сдано **до дедлайна**  
 
 ---
-## Скриншот программы
-
-![res1.png](.idea/src/com/moderntech/ecommerce/image/res1.png)
-![res2.png](.idea/src/com/moderntech/ecommerce/image/res2.png)
-![res3.png](.idea/src/com/moderntech/ecommerce/image/res3.png)
-
-## ER-диаграмма (ERD)
-![erd.drawio.png](.idea/src/com/moderntech/ecommerce/image/erd.drawio.png)
+## Результаты работы
+![Снимок экрана 2026-04-09 144750.png](../../Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-09%20144750.png)
