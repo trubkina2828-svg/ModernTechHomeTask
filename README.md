@@ -49,9 +49,13 @@
 ---
 ## Результаты работы
 Скриншоты: 
+
 [image alt] (https://github.com/trubkina2828-svg/ModernTechHomeTask/blob/main/res1.png)
+
 [image alt] (https://github.com/trubkina2828-svg/ModernTechHomeTask/blob/main/res2.png)
+
 [image alt] (https://github.com/trubkina2828-svg/ModernTechHomeTask/blob/main/res3.png)
 
 ERD:
+
 [image alt] (https://github.com/trubkina2828-svg/ModernTechHomeTask/blob/main/erd.drawio.png)
